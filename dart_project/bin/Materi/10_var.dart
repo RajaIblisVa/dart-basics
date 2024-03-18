@@ -1,4 +1,4 @@
 void main() {
-    var penulis = ‘Sayuti’;
+    var penulis = 'Sayuti';
     print(penulis);
 }
