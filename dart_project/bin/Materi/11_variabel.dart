@@ -1,3 +1,3 @@
 var umur = 18;
-dynamic nama = 'khanif';
+dynamic nama = 'valen';
 String kota = 'Jepara';
